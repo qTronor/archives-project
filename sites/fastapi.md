@@ -1,4 +1,3 @@
-````markdown
 # FastAPI — описание WARC-архива
 
 - **Сайт:** [FastAPI](https://fastapi.tiangolo.com/)
