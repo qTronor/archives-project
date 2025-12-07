@@ -1,4 +1,3 @@
-````markdown
 # Docker Get Started — описание WARC-архива
 
 - **Сайт / раздел:** [Docker Docs — Get started](https://docs.docker.com/get-started/)
