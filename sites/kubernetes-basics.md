@@ -1,4 +1,3 @@
-````markdown
 # Kubernetes Basics — описание WARC-архива
 
 - **Сайт / раздел:** [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
