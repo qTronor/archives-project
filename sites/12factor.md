@@ -1,5 +1,3 @@
-````markdown
-
 # The Twelve‑Factor App — описание WARC‑архива
 
 - **Сайт:** [The Twelve‑Factor App](https://www.12factor.net/)
