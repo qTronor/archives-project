@@ -1,0 +1,34 @@
+                     Group by mime type                      
++-----------------------------------------------------------+
+| mime                                  | size      | count |
+|---------------------------------------+-----------+-------|
+| None                                  | 12859     |    18 |
+| application/binary                    | 2517      |     2 |
+| application/javascript                | 2141741   |     3 |
+| application/javascript; charset=UTF-8 | 1435528   |    18 |
+| application/javascript; charset=utf-8 | 90121     |     1 |
+| application/octet-stream              | 106169    |     2 |
+| application/x-javascript              | 140054    |     3 |
+| font/woff2                            | 64053     |     2 |
+| image/png                             | 519309    |    25 |
+| image/svg+xml                         | 314110    |    20 |
+| image/svg+xml;charset=utf-8           | 2043      |     1 |
+| image/webp                            | 112967    |     4 |
+| text/css                              | 85327     |     3 |
+| text/css; charset=UTF-8               | 704890    |     5 |
+| text/css; charset=utf-8               | 154277    |     2 |
+| text/css;charset=utf-8                | 8677      |     2 |
+| text/html                             | 5525580   |    51 |
+| text/html; charset="utf-8"            | 518851    |     1 |
+| text/html; charset=UTF-8              | 387659945 |   859 |
+| text/html; charset=iso-8859-1         | 2234      |     1 |
+| text/html; charset=utf-8              | 19633326  |   105 |
+| text/html; charset=windows-1251       | 122608    |     4 |
+| text/html;charset=utf-8               | 746451    |    62 |
+| text/javascript                       | 112884    |     2 |
+| text/javascript;charset=UTF-8         | 20326     |     1 |
+| text/javascript;charset=utf-8         | 18204     |     1 |
+| text/plain                            | 1282      |     3 |
+| text/plain; charset=utf-8             | 663       |     2 |
+| text/plain;charset=UTF-8              | 743       |     1 |
++-----------------------------------------------------------+
